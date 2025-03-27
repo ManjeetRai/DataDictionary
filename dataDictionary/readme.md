@@ -21,7 +21,7 @@
 
    
 
-or
+
 ## Running using Docker
 
 1. Build the Project
