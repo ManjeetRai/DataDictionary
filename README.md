@@ -81,6 +81,6 @@ sudo docker run -p 8080:8080 data-dictionary
 ---
 
 ## Reference Sheet
-[Google Sheets Reference](https://docs.google.com/spreadsheets/d/1yS8NcLeS-HnX3COVLwHX7Uyjbu4YgXHVPzUzlI_CUnQ/edit?gid=423316914)
+[Google Sheets Reference]()
 
 ![Reference Image](https://github.com/user-attachments/assets/8bffd0cb-828b-4617-a0f4-33f6b46e04e1)
